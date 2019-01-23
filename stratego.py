@@ -1,6 +1,7 @@
 import pygame
 from pygame.locals import *
 import time
+#imports modules
 playernum=1
 clock=pygame.time.Clock()
 line1=[1,'-','-','-','-','-','-','-','-','-','-']
